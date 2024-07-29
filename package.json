@@ -1,0 +1,20 @@
+{
+  "name": "@arbishali/cli-number-guessing-game",
+  "version": "1.0.1",
+  "description": "This is a CLI number guessing game project",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@arbishali/cli-number-guessing-game": "^1.0.0",
+    "inquirer": "^10.1.2"
+  }
+}
